@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="ShitTest" steamworkshopid="3509762579" corepackage="false" modversion="1.0.0" gameversion="1.9.7.0" installtime="1">
+	<Text file="%ModDir%/Content/Texts/English.xml" />
+	<Text file="%ModDir%/Content/Texts/Russian.xml" />
+	
+	<Item file="%ModDir%/Content/dummyitem.xml" />
+</contentpackage>

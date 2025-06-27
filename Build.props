@@ -1,0 +1,6 @@
+<Project>
+    <PropertyGroup>
+        <ModDeployDir>C:\Program Files (x86)\Steam\steamapps\common\Barotrauma\LocalMods\ShitTestDeploy\</ModDeployDir>
+        <AssemblyName>ShitTest</AssemblyName>
+    </PropertyGroup>
+</Project>
